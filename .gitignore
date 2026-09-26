@@ -1,6 +1,4 @@
 __pycache__/
 *.pyc
-build/
-intall/
-log/
-*.egg-info/
+my_env/
+audio/
